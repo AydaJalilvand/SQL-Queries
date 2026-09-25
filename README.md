@@ -1,1 +1,1 @@
-# SQL-Quries
+# SQL-Queries
